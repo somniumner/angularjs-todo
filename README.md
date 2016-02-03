@@ -1,2 +1,2 @@
-# toDo
-AngularJS ToDo app
+# angularjs-todo
+AngularJS To-Do app
